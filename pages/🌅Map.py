@@ -6,12 +6,6 @@ Web App URL: <https://geotemplate.streamlit.app>
 GitHub Repository: <https://github.com/giswqs/streamlit-multipage-template>
 """
 
-st.sidebar.title("About")
-st.sidebar.info(markdown)
-logo = "https://i.imgur.com/UbOXYAU.png"
-st.sidebar.image(logo)
-
-
 st.title("Interactive Map")
 st.write("To interact with this map you can either select one from the dropdown menu or enter a URL.")
 
