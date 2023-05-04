@@ -1,6 +1,5 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
+import leafmap.foliumap as leafmap
 
 st.title('Lab 10')
 
